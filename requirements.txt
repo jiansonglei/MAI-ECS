@@ -1,0 +1,6 @@
+Keras>=2.2.4
+networkx>=2.2
+numpy>=1.15.3	
+pandas>=0.23.4	
+tensorflow>=1.11.0	
+python>=3.5.4
